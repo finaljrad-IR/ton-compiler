@@ -17,7 +17,7 @@
     "release": "rm -fr dist && tsc && jest && yarn publish"
   },
   "dependencies": {
-    "arg": "^5.0.1",
+    "arg": "^5.0.2",
     "tmp": "^0.2.1"
   },
   "devDependencies": {
